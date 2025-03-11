@@ -1,8 +1,13 @@
 {
-    "workbench.colorCustomizations": {
-        "terminal.background": "#00000000",
-        "activityBar.background": "#263106",
-        "titleBar.activeBackground": "#354509",
-        "titleBar.activeForeground": "#F8FCEA"
-    }
+  "workbench.colorCustomizations": {
+    "terminal.background": "#000000",
+    "activityBar.background": "#2b4dca",
+    "titleBar.activeBackground": "#a940ef",
+    "titleBar.activeForeground": "#F8FCEA"
+  },
+  "eslint.experimental.useFlatConfig": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  }
 }
